@@ -1,4 +1,4 @@
-# Ruby wrapper for Quovo's v3 API (WIP)
+# Ruby wrapper for Quovo's v3 API (Not being developed/maintained)
 
 ## Progress
 * `/accounts`
